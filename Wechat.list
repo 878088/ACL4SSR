@@ -1,0 +1,6 @@
+- DOMAIN-KEYWORD,long.wechat,proxy
+- DOMAIN-KEYWORD,short.wechat,proxy
+- DOMAIN-KEYWORD,long.weixin,proxy
+- DOMAIN-KEYWORD,short.weixin,proxy
+- DOMAIN-KEYWORD,google,proxy
+- DOMAIN-KEYWORD,dns.weixin,REJECT
