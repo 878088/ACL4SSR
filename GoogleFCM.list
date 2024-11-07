@@ -1,8 +1,9 @@
 # 内容：GoogleFCM 谷歌推送服务
 # 数量：35条
-DOMAIN,mtalk.google.com,DIRECT
-DOMAIN-SUFFIX,short.weixin.qq.com,DIRECT
-DOMAIN-SUFFIX,dns.weixin.qq.com.cn,DIRECT
+DOMAIN,mtalk.google.com
+DOMAIN-SUFFIX,short.weixin.qq.com,proxy
+DOMAIN-SUFFIX,dns.weixin.qq.com.cn,proxy
+DOMAIN-SUFFIX,long.wechat,proxy
 IP-CIDR,142.250.157.188/32,no-resolve
 IP-CIDR,74.125.135.188/32,no-resolve
 IP-CIDR,108.177.122.188/32,no-resolve
